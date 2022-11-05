@@ -8,11 +8,6 @@
 	url = https://github.com/josiahparry/genius
 	shallow = true
 	registered = true
-[submodule "sfdep"]
-	path = sfdep
-	url = https://github.com/josiahparry/sfdep
-	shallow = true
-	registered = true
 [submodule "trendyy"]
 	path = trendyy
 	url = https://github.com/josiahparry/trendyy

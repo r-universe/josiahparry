@@ -4,10 +4,6 @@
     "oncran": true
   },
   {
-    "package": "sfdep",
-    "oncran": true
-  },
-  {
     "package": "trendyy",
     "oncran": true
   }

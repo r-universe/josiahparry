@@ -1,9 +1,5 @@
 [
   {
-    "package": "genius",
-    "oncran": true
-  },
-  {
     "package": "trendyy",
     "oncran": true
   }

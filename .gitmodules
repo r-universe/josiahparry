@@ -13,3 +13,8 @@
 	url = https://github.com/josiahparry/trendyy
 	shallow = true
 	registered = true
+[submodule "genius"]
+	path = genius
+	url = https://github.com/josiahparry/genius
+	shallow = true
+	registered = true

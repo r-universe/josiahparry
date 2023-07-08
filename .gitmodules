@@ -1,10 +1,16 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/josiahparry/josiahparry.r-universe.dev
 	branch = HEAD
+[submodule "valve"]
+	path = valve
+	url = https://github.com/josiahparry/valve
 [submodule "sfdep"]
 	path = sfdep
 	url = https://github.com/josiahparry/sfdep
-[submodule "trendyy"]
-	path = trendyy
-	url = https://github.com/josiahparry/trendyy
+[submodule "h3o"]
+	path = h3o
+	url = https://github.com/josiahparry/h3o
+[submodule "sdf"]
+	path = sdf
+	url = https://github.com/josiahparry/sdf

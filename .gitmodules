@@ -1,10 +1,10 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/josiahparry/universe
+	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "valve"]
-	path = valve
-	url = https://github.com/josiahParry/valve
-[submodule "h3o"]
-	path = h3o
-	url = https://github.com/josiahParry/h3o
+[submodule "sfdep"]
+	path = sfdep
+	url = https://github.com/josiahparry/sfdep
+[submodule "trendyy"]
+	path = trendyy
+	url = https://github.com/josiahparry/trendyy

@@ -5,6 +5,9 @@
 [submodule "valve"]
 	path = valve
 	url = https://github.com/josiahparry/valve
+[submodule "rsgeo"]
+	path = rsgeo
+	url = https://github.com/josiahparry/rsgeo
 [submodule "sfdep"]
 	path = sfdep
 	url = https://github.com/josiahparry/sfdep

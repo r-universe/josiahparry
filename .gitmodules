@@ -2,18 +2,18 @@
 	path = .registry
 	url = https://github.com/josiahparry/josiahparry.r-universe.dev
 	branch = HEAD
-[submodule "valve"]
-	path = valve
-	url = https://github.com/josiahparry/valve
-[submodule "rsgeo"]
-	path = rsgeo
-	url = https://github.com/josiahparry/rsgeo
-[submodule "sfdep"]
-	path = sfdep
-	url = https://github.com/josiahparry/sfdep
 [submodule "h3o"]
 	path = h3o
 	url = https://github.com/josiahparry/h3o
+[submodule "rsgeo"]
+	path = rsgeo
+	url = https://github.com/josiahparry/rsgeo
 [submodule "sdf"]
 	path = sdf
 	url = https://github.com/josiahparry/sdf
+[submodule "sfdep"]
+	path = sfdep
+	url = https://github.com/josiahparry/sfdep
+[submodule "valve"]
+	path = valve
+	url = https://github.com/josiahparry/valve

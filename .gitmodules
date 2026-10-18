@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/josiahparry/josiahparry.r-universe.dev
 	branch = HEAD
-[submodule "h3o"]
-	path = h3o
-	url = https://github.com/josiahparry/h3o
 [submodule "rsgeo"]
 	path = rsgeo
 	url = https://github.com/josiahparry/rsgeo
@@ -14,6 +11,12 @@
 [submodule "sfdep"]
 	path = sfdep
 	url = https://github.com/josiahparry/sfdep
+[submodule "spdgp"]
+	path = spdgp
+	url = https://github.com/josiahparry/spdgp
+[submodule "trendyy"]
+	path = trendyy
+	url = https://github.com/josiahparry/trendyy
 [submodule "uwu"]
 	path = uwu
 	url = https://github.com/josiahparry/uwu
